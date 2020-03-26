@@ -1,5 +1,5 @@
 ---
-page: https://idle.run/baby-raspi
+page: https://idle.run/linphone-raspi
 title: "Linphone on Raspberry Pi"
 tags: raspberry pi linphone sip
 date: 2018-11-12
